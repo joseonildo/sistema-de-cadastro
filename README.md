@@ -1,6 +1,8 @@
-<h1>Sistema de cadastro de jogos</h1>
+<h1 align="center">Sistema de cadastro de jogos</h1>
 
-> Status do projeto: Em desenvolvimento.
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 Para rodar esse projeto na sua máquina, por favor digite:
 
