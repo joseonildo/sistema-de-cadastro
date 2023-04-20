@@ -4,9 +4,4 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Para rodar esse projeto na sua máquina, por favor digite:
-
-```
-node app.js
-```
 <p>Testando mudanças no codigo remotamento</p>
